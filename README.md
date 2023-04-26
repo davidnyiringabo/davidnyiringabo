@@ -3,7 +3,7 @@ I'm David NYIRINGABO
 
 I'M a fullstack web and mobile software developer.
 
-💫About Me :
+<br>💫About Me :</br>
 💻Tech Stack
 JavaScript PHP Python TypeScript CSS3 HTML5 Java Vercel Heroku Netlify Express.js ReactJs Native jQuery NextJS NodeJS TailwindCSS MongoDB MySQL PostgreSQL Firebase Docker
 
