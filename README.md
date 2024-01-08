@@ -13,3 +13,4 @@ I'M a Fullstack web and mobile applications software developer.
 <br>😄 Pronouns: He</br>
 <br>⚡ Fun fact: I like coding, playing pianno,football and pingpong.</br>
 
+<a href="https://app.daily.dev/davidlaghi"><img src="https://api.daily.dev/devcards/9e61023729bc43b7b0aa6f16ffe4ab93.png?r=td6" width="400" alt="David NYIRINGABO's Dev Card"/></a>
